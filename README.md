@@ -3,11 +3,15 @@
 A simple bash script tool for v2ray-core service on Linux
 
 ```
-`start`  v2cli  --start | start  | -s
+`start`     v2cli {--start|start|-s}
 
-`stop`   v2cli  --stop  | stop   | -S
+`stop`      v2cli {--stop|stop|-S}
 
-`status` v2cli --status | status | -e
+`status`    v2cli {--status|status|-e}
+
+`show`      v2cli {--show|show|-l}
+
+`show -all` v2cli {--show -all}
 ```
 
 # Install
