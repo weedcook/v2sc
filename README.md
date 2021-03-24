@@ -2,9 +2,13 @@
 
 A simple bash script tool for v2ray-core service on Linux
 
-`start`  v2cli  --start | start  | -s<br>
-`stop`   v2cli  --stop  | stop   | -S<br>
-`status` v2cli --status | status | -e<br>
+```
+`start`  v2cli  --start | start  | -s
+
+`stop`   v2cli  --stop  | stop   | -S
+
+`status` v2cli --status | status | -e
+```
 
 # Install
 
