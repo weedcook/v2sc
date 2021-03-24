@@ -6,6 +6,7 @@ start stop status..
 # Install
 
 file `install.sh` defined default path, script bin path node path and others
+
 file `configure.sh` you can define it by youself
 
 Example like:
