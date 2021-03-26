@@ -3,15 +3,15 @@
 A simple bash script tool for v2ray-core service on Linux
 
 ```
-`start`     v2cli {--start|start|-s}
+`start`     v2cli {--start|start|-s}        start service
 
-`stop`      v2cli {--stop|stop|-S}
+`stop`      v2cli {--stop|stop|-S}          stop service
 
-`status`    v2cli {--status|status|-e}
+`status`    v2cli {--status|status|-e}      service status
 
-`show`      v2cli {--show|show|-l}
+`show`      v2cli {--show|show|-l}          show used node config file
 
-`show -all` v2cli {--show -all}
+`show -all` v2cli {--show -all}             same as 'show', but this is show alls
 ```
 
 # Install
