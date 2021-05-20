@@ -18,7 +18,7 @@ declare script_name
 declare logs_path
 declare null_path=/dev/null
 
-_max=$#
+declare readonly _max=$#
 for (( declare index=1; i <= $_max; ++index ))
 do
     case "$index" in
