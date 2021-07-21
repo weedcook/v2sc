@@ -1,7 +1,7 @@
 # #!/bin/bash
 
-# # A simple bash script for v2ray-core service
-# # Written by ISNTL <?>
+# A simple bash script for v2ray-core service
+# Written by ISNTL <?>
 
 # #script_name=
 # #service_name=
