@@ -8,9 +8,9 @@ A simple bash script tool for v2ray-core service on Linux
 
 `status    v2ctl {--status|status|-e}      service status`
 
-`show      v2ctl {--show|show|-l}          show used node config file`
+<del>`show      v2ctl {--show|show|-l}          show used node config file`</del>
 
-`reset     v2ctl {--reset|reset|-c}        select default node config`
+<del>`reset     v2ctl {--reset|reset|-c}        select default node config`</del>
 
 <del>`show all  v2ctl {--show-all}              same as 'show', but this is show alls`</del>
 
