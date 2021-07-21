@@ -16,9 +16,9 @@ A simple bash script tool for v2ray-core service on Linux
 
 # Install
 
-file `install.sh` defined default path, script bin path node path and others
+<del>file `install.sh` defined default path, script bin path node path and others</del>
 
-file `configure.sh` you can define it by youself
+<del>file `configure.sh` you can define it by youself</del>
 
 Example like:
 ```
