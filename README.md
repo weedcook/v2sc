@@ -1,4 +1,4 @@
-# v2ctl, a script toos for v2ray service control
+# v2sc, a script toos for v2ray service
 
 A simple bash script tool for v2ray-core service on Linux
 
