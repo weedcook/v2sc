@@ -3,7 +3,7 @@
 # A simple bash script of toggle for v2ray-core service
 # Written by ISNTL <?>
 
-declare readonly script_name=v2ctl
+declare readonly script_name=v2sc
 
 tip_help()
 {
