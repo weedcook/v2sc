@@ -22,11 +22,11 @@ show      v2ctl {--show|show|-l}          show used node config file
 reset     v2ctl {--reset|reset|-c}        select default node config
 `
 
+`
 <del>
-`
 show all  v2ctl {--show-all}              same as 'show', but this is show alls
-`
 </del>
+`
 
 # Install
 
